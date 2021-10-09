@@ -1,5 +1,5 @@
 <h1 align="center">I'm Omar Usman 🌌</h1>
-<h3 align="center">A professional money maker from Toronto, Canada</h3>
+<h3 align="center">professional money maker</h3>
 <br>
 <p align="center">
 <a href="https://twitter.com/theomarusman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theomarusman" height="30" width="30" /></a>
