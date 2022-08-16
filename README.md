@@ -1,4 +1,4 @@
-<h1 align="center">I'm Omar Usman 🌌</h1>
+<h1 align="center">Omar Usman 🌌</h1>
 <h3 align="center">professional money maker</h3>
 <br>
 <p align="center">
